@@ -1,0 +1,17 @@
+
+startList[0] = 65		endList[0] = 73
+startList[1] = 74		endList[1] = 82
+startList[2] = 83		endList[2] = 90
+
+ |Creating threads and checking for a matching hash| 
+salt_and_encrypted: $6$AS$9IwGTn5WbHSalUs4ba3JbOfOUX/v1yD71Z4M2F6Yusz5k2WQEOFxqLIY80tudGtcFttqr/Zq6RIPjHkl/t2Pp1
+Looping from ASCII start value: 83
+Looping to ASCII end value: 90
+Looping from ASCII start value: 65
+Looping to ASCII end value: 73
+#20812   AA11 $6$AS$9IwGTn5WbHSalUs4ba3JbOfOUX/v1yD71Z4M2F6Yusz5k2WQEOFxqLIY80tudGtcFttqr/Zq6RIPjHkl/t2Pp1
+
+
+
+
+
